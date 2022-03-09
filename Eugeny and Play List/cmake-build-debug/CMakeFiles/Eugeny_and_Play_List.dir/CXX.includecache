@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Eugeny and Play List/main.cpp
+iostream
+-
+map
+-
+vector
+-
+algorithm
+-
+

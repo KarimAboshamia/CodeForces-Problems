@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Jeff and Periods/cmake-build-debug/CMakeFiles/Jeff_and_Periods.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Jeff and Periods/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Jeff and Periods/cmake-build-debug/CMakeFiles/rebuild_cache.dir

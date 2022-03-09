@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Football Kit/main.cpp
+iostream
+-
+map
+-
+vector
+-
+

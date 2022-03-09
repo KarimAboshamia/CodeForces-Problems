@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inbox (100500)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inbox (100500)/cmake-build-debug/CMakeFiles/Inbox__100500_.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inbox (100500)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

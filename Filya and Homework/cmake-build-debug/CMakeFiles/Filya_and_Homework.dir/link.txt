@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Filya_and_Homework.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Filya_and_Homework.dir/objects.a @CMakeFiles\Filya_and_Homework.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Filya_and_Homework.dir/objects.a -Wl,--no-whole-archive  -o Filya_and_Homework.exe -Wl,--out-implib,libFilya_and_Homework.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Filya_and_Homework.dir\linklibs.rsp

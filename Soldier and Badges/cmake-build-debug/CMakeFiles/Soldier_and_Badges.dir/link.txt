@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Soldier_and_Badges.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Soldier_and_Badges.dir/objects.a @CMakeFiles\Soldier_and_Badges.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Soldier_and_Badges.dir/objects.a -Wl,--no-whole-archive  -o Soldier_and_Badges.exe -Wl,--out-implib,libSoldier_and_Badges.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Soldier_and_Badges.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bear and Strings/cmake-build-debug/CMakeFiles/Bear_and_Strings.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bear and Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bear and Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

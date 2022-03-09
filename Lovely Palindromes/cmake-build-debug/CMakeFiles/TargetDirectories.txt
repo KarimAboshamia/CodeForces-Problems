@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Lovely Palindromes/cmake-build-debug/CMakeFiles/Lovely_Palindromes.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Lovely Palindromes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Lovely Palindromes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

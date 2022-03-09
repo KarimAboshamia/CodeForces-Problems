@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Bear_and_Friendship_Condition.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Bear_and_Friendship_Condition.dir/objects.a @CMakeFiles\Bear_and_Friendship_Condition.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Bear_and_Friendship_Condition.dir/objects.a -Wl,--no-whole-archive  -o Bear_and_Friendship_Condition.exe -Wl,--out-implib,libBear_and_Friendship_Condition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bear_and_Friendship_Condition.dir\linklibs.rsp

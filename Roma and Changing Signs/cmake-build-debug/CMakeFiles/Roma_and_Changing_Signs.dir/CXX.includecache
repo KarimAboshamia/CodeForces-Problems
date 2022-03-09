@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Roma and Changing Signs/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

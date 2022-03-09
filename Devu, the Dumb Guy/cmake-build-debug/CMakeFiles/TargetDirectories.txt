@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Devu, the Dumb Guy/cmake-build-debug/CMakeFiles/Devu__the_Dumb_Guy.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Devu, the Dumb Guy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Devu, the Dumb Guy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Appleman and Card Game/main.cpp
+iostream
+-
+map
+-
+vector
+-
+vector
+-
+algorithm
+-
+

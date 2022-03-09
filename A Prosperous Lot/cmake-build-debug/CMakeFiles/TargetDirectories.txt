@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/A Prosperous Lot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/A Prosperous Lot/cmake-build-debug/CMakeFiles/A_Prosperous_Lot.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/A Prosperous Lot/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Complete the Word/cmake-build-debug/CMakeFiles/Complete_the_Word.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Complete the Word/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Complete the Word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

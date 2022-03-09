@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Filya and Homework/cmake-build-debug/CMakeFiles/Filya_and_Homework.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Filya and Homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Filya and Homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

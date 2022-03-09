@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Easter_Eggs.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Easter_Eggs.dir/objects.a @CMakeFiles\Easter_Eggs.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Easter_Eggs.dir/objects.a -Wl,--no-whole-archive  -o Easter_Eggs.exe -Wl,--out-implib,libEaster_Eggs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Easter_Eggs.dir\linklibs.rsp

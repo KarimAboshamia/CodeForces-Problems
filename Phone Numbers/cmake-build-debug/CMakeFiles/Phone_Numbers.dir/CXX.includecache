@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Phone Numbers/main.cpp
+iostream
+-
+map
+-
+algorithm
+-
+vector
+-
+string
+-
+

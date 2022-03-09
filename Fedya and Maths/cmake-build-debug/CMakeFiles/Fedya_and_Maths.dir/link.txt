@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Fedya_and_Maths.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Fedya_and_Maths.dir/objects.a @CMakeFiles\Fedya_and_Maths.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Fedya_and_Maths.dir/objects.a -Wl,--no-whole-archive  -o Fedya_and_Maths.exe -Wl,--out-implib,libFedya_and_Maths.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fedya_and_Maths.dir\linklibs.rsp

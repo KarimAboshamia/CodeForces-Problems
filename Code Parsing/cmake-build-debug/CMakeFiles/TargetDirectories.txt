@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Code Parsing/cmake-build-debug/CMakeFiles/Code_Parsing.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Code Parsing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Code Parsing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

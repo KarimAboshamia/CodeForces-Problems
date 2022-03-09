@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625803654 source:c:\users\rocker\desktop\c++\problemsolving\20. keyboard\main.cpp
+	<iostream>
+	<string>
+

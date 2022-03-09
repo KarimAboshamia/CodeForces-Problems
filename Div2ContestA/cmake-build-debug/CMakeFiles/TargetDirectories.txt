@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Div2ContestA/cmake-build-debug/CMakeFiles/Div2ContestA.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Div2ContestA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Div2ContestA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

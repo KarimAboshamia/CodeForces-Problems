@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625802270 source:c:\users\rocker\desktop\c++\problemsolving\19. twins\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

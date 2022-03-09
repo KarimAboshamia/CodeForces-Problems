@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sea and Islands/cmake-build-debug/CMakeFiles/Sea_and_Islands.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sea and Islands/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sea and Islands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

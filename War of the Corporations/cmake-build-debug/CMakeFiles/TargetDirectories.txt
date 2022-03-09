@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/War of the Corporations/cmake-build-debug/CMakeFiles/War_of_the_Corporations.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/War of the Corporations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/War of the Corporations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

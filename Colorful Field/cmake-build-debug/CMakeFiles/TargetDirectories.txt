@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Colorful Field/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Colorful Field/cmake-build-debug/CMakeFiles/Colorful_Field.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Colorful Field/cmake-build-debug/CMakeFiles/rebuild_cache.dir

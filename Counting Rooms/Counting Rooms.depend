@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629253621 source:c:\users\rocker\desktop\counting rooms\main.cpp
+	<iostream>
+	<vector>
+

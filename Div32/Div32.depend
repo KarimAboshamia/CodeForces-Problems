@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629297545 source:c:\users\rocker\desktop\c++\problemsolving\div32\main.cpp
+	<iostream>
+	<vector>
+

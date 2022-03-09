@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/Inna_and_New_Matrix_of_Candies.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

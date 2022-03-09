@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626673051 source:c:\users\rocker\desktop\c++\problemsolving\random teams\main.cpp
+	<iostream>
+	<cmath>
+

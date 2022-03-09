@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616350303 source:c:\users\rocker\desktop\c++\problemsolving\3. product\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+

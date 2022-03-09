@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Hongcow_Builds_A_Nation.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Hongcow_Builds_A_Nation.dir/objects.a @CMakeFiles\Hongcow_Builds_A_Nation.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Hongcow_Builds_A_Nation.dir/objects.a -Wl,--no-whole-archive  -o Hongcow_Builds_A_Nation.exe -Wl,--out-implib,libHongcow_Builds_A_Nation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hongcow_Builds_A_Nation.dir\linklibs.rsp

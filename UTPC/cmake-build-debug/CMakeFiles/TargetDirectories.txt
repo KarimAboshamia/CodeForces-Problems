@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UTPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UTPC/cmake-build-debug/CMakeFiles/UTPC.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UTPC/cmake-build-debug/CMakeFiles/edit_cache.dir

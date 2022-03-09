@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626965578 source:c:\users\rocker\desktop\c++\coach mohamed\level2\2.1\radio station\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

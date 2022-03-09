@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\A_Prosperous_Lot.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\A_Prosperous_Lot.dir/objects.a @CMakeFiles\A_Prosperous_Lot.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\A_Prosperous_Lot.dir/objects.a -Wl,--no-whole-archive  -o A_Prosperous_Lot.exe -Wl,--out-implib,libA_Prosperous_Lot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A_Prosperous_Lot.dir\linklibs.rsp

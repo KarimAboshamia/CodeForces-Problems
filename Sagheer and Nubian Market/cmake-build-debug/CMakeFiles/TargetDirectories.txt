@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sagheer and Nubian Market/cmake-build-debug/CMakeFiles/Sagheer_and_Nubian_Market.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sagheer and Nubian Market/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Sagheer and Nubian Market/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Appleman and Card Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Appleman and Card Game/cmake-build-debug/CMakeFiles/Appleman_and_Card_Game.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Appleman and Card Game/cmake-build-debug/CMakeFiles/edit_cache.dir

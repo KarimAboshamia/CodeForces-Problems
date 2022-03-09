@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Valuable_Resources.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Valuable_Resources.dir/objects.a @CMakeFiles\Valuable_Resources.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Valuable_Resources.dir/objects.a -Wl,--no-whole-archive  -o Valuable_Resources.exe -Wl,--out-implib,libValuable_Resources.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Valuable_Resources.dir\linklibs.rsp

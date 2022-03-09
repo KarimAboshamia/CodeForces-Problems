@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/ Vladik and Complicated Book/cmake-build-debug/CMakeFiles/_Vladik_and_Complicated_Book.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/ Vladik and Complicated Book/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/ Vladik and Complicated Book/cmake-build-debug/CMakeFiles/rebuild_cache.dir

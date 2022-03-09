@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Roma and Changing Signs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Roma and Changing Signs/cmake-build-debug/CMakeFiles/Roma_and_Changing_Signs.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Roma and Changing Signs/cmake-build-debug/CMakeFiles/edit_cache.dir

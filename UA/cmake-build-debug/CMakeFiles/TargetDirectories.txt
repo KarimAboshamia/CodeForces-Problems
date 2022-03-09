@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UA/cmake-build-debug/CMakeFiles/UA.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/UA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

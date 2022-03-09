@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625685229 source:c:\users\rocker\desktop\university\data structure\algo\bst\9. team olympaid\main.cpp
+	<iostream>
+	<set>
+
+1625763942 source:c:\users\rocker\desktop\c++\problemsolving\9. team olympaid\main.cpp
+	<iostream>
+	<algorithm>
+

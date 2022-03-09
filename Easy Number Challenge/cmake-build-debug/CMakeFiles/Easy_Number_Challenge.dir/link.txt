@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Easy_Number_Challenge.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Easy_Number_Challenge.dir/objects.a @CMakeFiles\Easy_Number_Challenge.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Easy_Number_Challenge.dir/objects.a -Wl,--no-whole-archive  -o Easy_Number_Challenge.exe -Wl,--out-implib,libEasy_Number_Challenge.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Easy_Number_Challenge.dir\linklibs.rsp

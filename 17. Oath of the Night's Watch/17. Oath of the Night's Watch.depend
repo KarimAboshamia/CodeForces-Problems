@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625795704 source:c:\users\rocker\desktop\c++\problemsolving\17. oath of the night's watch\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

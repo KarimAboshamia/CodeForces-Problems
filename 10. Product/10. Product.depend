@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625702424 source:c:\users\rocker\desktop\university\data structure\algo\bst\10. product\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

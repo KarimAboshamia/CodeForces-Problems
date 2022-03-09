@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625804533 source:c:\users\rocker\desktop\c++\problemsolving\snacktower\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

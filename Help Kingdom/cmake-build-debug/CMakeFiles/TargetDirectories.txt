@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Help Kingdom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Help Kingdom/cmake-build-debug/CMakeFiles/Help_Kingdom.dir
+C:/Users/Rocker/Desktop/C++/Coach Mohamed/Level2/2.2/Help Kingdom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

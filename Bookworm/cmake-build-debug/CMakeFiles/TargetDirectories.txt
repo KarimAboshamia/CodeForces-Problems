@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bookworm/cmake-build-debug/CMakeFiles/Bookworm.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bookworm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Bookworm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

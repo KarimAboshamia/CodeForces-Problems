@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625678873 source:c:\users\rocker\desktop\university\data structure\algo\bst\8. helpful maths\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

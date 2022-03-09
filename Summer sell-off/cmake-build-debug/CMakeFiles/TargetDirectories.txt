@@ -1,0 +1,3 @@
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Summer sell-off/cmake-build-debug/CMakeFiles/Summer_sell_off.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Summer sell-off/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rocker/Desktop/C++/ProblemSolving/Summer sell-off/cmake-build-debug/CMakeFiles/rebuild_cache.dir
